@@ -2,4 +2,4 @@ project:
   title: "SST Dashboard"
 
 execute:
-  freeze: auto
+  freeze: true
